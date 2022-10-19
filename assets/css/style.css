@@ -1,5 +1,5 @@
 body {
-    background-image: url("/assets/images/station.png");
+    background-image: url("/assets/images/candies.png");
     background-size: cover;
     height: 100vh; //This makes the image take the size of the whole screen.
     font-family: 'Segoe UI', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -39,12 +39,13 @@ button {
     width: 100%;
     margin-bottom: 5px;
     border-radius: 5px;
+    font-size: 17px;
 }
 
 #increment-btn {
-    background: slateblue;
+    background: violet;
 }
 
 #save-btn {
-    background: darkcyan;
+    background: cyan;
 }
